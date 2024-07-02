@@ -15,11 +15,4 @@ Público-Alvo:
 
 Profissionais de TI, desenvolvedores, estudantes e entusiastas de tecnologia.
 Empresas que buscam capacitar suas equipes em tecnologias emergentes.
-Como Funciona:
 
-Inscrição na plataforma DIO.
-Aprendizado através de módulos e tutoriais.
-Desenvolvimento de um projeto prático.
-Avaliação e feedback por especialistas.
-Conclusão:
-O desafio é uma excelente oportunidade para explorar inteligência artificial e machine learning, com suporte de alta qualidade da DIO e AWS, permitindo crescimento profissional e desenvolvimento de novas habilidades.
